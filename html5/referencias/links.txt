@@ -1,0 +1,4 @@
+        <!-- https://color.adobe.com/pt/ -->
+        <!-- https://developer.mozilla.org/pt-BR/docs/Glossary/Semantics -->
+        <!-- https://colorhunt.co/ -->
+        <!-- https://m3.material.io/styles/color/system/overview -->
