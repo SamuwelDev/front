@@ -1,0 +1,30 @@
+
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+.strong-destaque {
+    color: #22D4FD;
+    color: #FFD4FD;
+}
+
+.s{
+    color: aquamarine;
+}
+
+.dstk {
+    color: darkgreen;
+}
+
+.samuel {
+    color: #22D4FD;
+}
+
+.aaa {
+    color: antiquewhite;
+}
+
+.s.samuel.aaa {
+    color: chartreuse;
+}
