@@ -17,9 +17,9 @@ body {
     box-sizing: border-box;
     /* Nada sai do body!*/
     /* Abaixo é para visualização da "box-sizing" */
-    width: 100%;
+    /* width: 100%;
     border: solid hsl(0, 0%, 70%) 10px;
-    padding: 5px;
+    padding: 5px; */
 }
 
 .strong-destaque {
